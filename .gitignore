@@ -1,0 +1,5 @@
+android
+config/bash_aliases
+config/bashrc
+linux/tool/*
+linux/bin/repo
